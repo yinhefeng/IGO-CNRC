@@ -3,7 +3,7 @@ competitive non-negative representation based classification with image gradient
 <br>
 The schematic diagram of our proposed IGO-CNRC is shown as follows,<br>
 <br>
-![image](https://github.com/yinhefeng/IGO-CNRC/blob/master/img/IGO_CNRC.jpg)
+![image](https://github.com/yinhefeng/IGO-CNRC/blob/master/IGO_CNRC.jpg)
 <br>
 <br>
 The manuscript is in preparation for submission.
